@@ -11,3 +11,5 @@ You need to install com.unity.sentis first. The version used in this project is 
 https://github.com/Melo36/Bachelor-Sentis
 
 https://huggingface.co/unity/sentis-YOLOv8n
+
+https://blog.csdn.net/u014361280/article/details/107374795
