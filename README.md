@@ -9,4 +9,5 @@ You need to install com.unity.sentis first. The version used in this project is 
 
 # 参考 reference
 https://github.com/Melo36/Bachelor-Sentis
+
 https://huggingface.co/unity/sentis-YOLOv8n
